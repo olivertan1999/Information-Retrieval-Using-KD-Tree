@@ -13,13 +13,34 @@ The program map2.c accepts x, y, radius queries from stdin and search the tree f
 
 # <a name="instruction"></a>Instruction
 > ## <a name="map1"></a>Map1.c
+To compile the program:</br>
+>    
+     make map1
+
 To run the program:</br>
 > 
      ./map1 <csv_filename> <output_filename> < <keyfile_name> 
 
      <csv_filename> arg     - Dataset file
      <output_filename> arg  - Output file to record search results
-     <keyfile_name> arg     - File of keys to be searched (one 
-                              coordinates key per line) 
+     <keyfile_name> arg     - File of keys to be searched (contains one 
+                              coordinates key separated by <space>
+                              per line. Eg. x.xxx y.yyy) 
+>
+> ## <a name="map2"></a>Map2.c
+To compile the program:</br>
+>    
+     make map2
+
+To run the program:</br>
+> 
+     ./map2 <csv_filename> <output_filename> < <keyfile_name> 
+
+     <csv_filename> arg     - Dataset file
+     <output_filename> arg  - Output file to record search results
+     <keyfile_name> arg     - File of keys to be searched (contains one 
+                              coordinates-radius key separated by <space> 
+                              per line. Example key x.xxx y.yyy r.rrr) 
 >
 # <a name="experimentation"></a>Experimentation
+Refer to the [experimentation report](https://github.com/olivertan1999/Information-Retrieval-Using-KD-Tree/blob/main/Experimentation%20Report.pdf) to understand further the performance of algorithms used in this program. 
