@@ -4,7 +4,6 @@
 *    (Search the nearest point based on the input coordinates)               *
 *    Developed by: Oliver Ming Hui Tan                                       *
 *    Date: 18 September 2020                                                 *
-*                                                                            *
 ******************************************************************************/
 
 #include "csvparser.h"
