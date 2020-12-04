@@ -13,6 +13,13 @@ The program map2.c accepts x, y, radius queries from stdin and search the tree f
 
 # <a name="instruction"></a>Instruction
 > ## <a name="map1"></a>Map1.c
->
+To run the program:</br>
+> 
+     ./map1 <csv_filename> <output_filename> < <keyfile_name> 
 
-# <a name="experimentation"></a>Experimentation8
+     <csv_filename> arg     - Dataset file
+     <output_filename> arg  - Output file to record search results
+     <keyfile_name> arg     - File of keys to be searched (one 
+                              coordinates key per line) 
+>
+# <a name="experimentation"></a>Experimentation
