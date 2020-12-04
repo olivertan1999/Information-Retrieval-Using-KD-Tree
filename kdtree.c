@@ -1,8 +1,6 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * This is a KD Tree implementation adapted from binary search tree           *
 * implementation by Alistair Moffat                                          *
-* Title: Treeops.c                                                           *
-* Author: Alistair Moffat                                                    *
 * Modified by: Oliver Ming Hui Tan                                           *
 * Available at: https://people.eng.unimelb.edu.au/ammoffat/ppsaa/c/treeops.c *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
