@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-* This is a Search program that obtains input key and searches informations  *
+* This is the program that obtains input key and searches informations       *
 * from the CLUE dataset then output the result in the outputfile specified   *
 * by user                                                                    *
 * Developed by: Oliver Ming Hui Tan                                          *
