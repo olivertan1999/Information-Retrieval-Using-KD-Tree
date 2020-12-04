@@ -2,8 +2,7 @@
 *    COMP20003 Assignment 2 (Stage 2)                                        *
 *    Melbourne Census Dataset Information Retrieval using a KD Tree          *
 *    (Search all points within query radius from the input coordinates)      *
-*    Developed by: Oliver Ming Hui Tan                                       *
-*    Student id: 1087948                                                     *
+*    Developed by: Oliver Ming Hui Tan                                       *                                                   *
 *    Date: 18 September 2020                                                 *
 *                                                                            *
 ******************************************************************************/
