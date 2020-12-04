@@ -3,7 +3,6 @@
 *    Melbourne Census Dataset Information Retrieval using a KD Tree          *
 *    (Search the nearest point based on the input coordinates)               *
 *    Developed by: Oliver Ming Hui Tan                                       *
-*    Student id: 1087948                                                     *
 *    Date: 18 September 2020                                                 *
 *                                                                            *
 ******************************************************************************/
@@ -119,7 +118,7 @@ free_all(tree_t *tree, char *buffer) {
 	assert(tree != NULL);
     
 	recursive_free_tree(tree->root);
-    free(tree);
-    free(buffer);
+	free(tree);
+	free(buffer);
     
 }
