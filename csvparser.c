@@ -1,6 +1,6 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * This is a CSV Parser program that parses and records informations in the   *
-* CLUE Dataset to a KD Tree data structure                                   *
+* CLUE Dataset into a KD Tree data structure                                 *
 * Developed by: Oliver Ming Hui Tan                                          *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
